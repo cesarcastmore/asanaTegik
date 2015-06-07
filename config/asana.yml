@@ -1,0 +1,13 @@
+#Documento para guardar todas las variables globlaes que se utilizaran en Asana
+
+development:
+  CLIENT_ID_ASANA: 36842091610890
+  CLIENT_SECRET_ASANA: e54bf1abf9fd7e2a1b415e6f542c3295
+
+test:
+  CLIENT_ID_ASANA: 36842091610890
+  CLIENT_SECRET_ASANA: e54bf1abf9fd7e2a1b415e6f542c3295
+
+production:
+  CLIENT_ID_ASANA: 36842091610890
+  CLIENT_SECRET_ASANA: e54bf1abf9fd7e2a1b415e6f542c3295
